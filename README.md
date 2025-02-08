@@ -20,9 +20,9 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/Kgabo71/Drobox-sign-BackEnd
+git clone https://github.com/Kgabo71/Dropbox-sign-BackEnd
 
-cd Drobox-sign-BackEnd
+cd Dropbox-sign-BackEnd
 
 Install dependencies:
 
